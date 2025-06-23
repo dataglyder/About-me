@@ -15,5 +15,6 @@ Certifications
 [Accounting](https://coursera.org/verify/AZ9SYHIWUQ23)
 
 [SQL](https://coursera.org/verify/XVGGMXM2R7AM)
+
 [Python3 Programming Language](https://coursera.org/verify/specializat
 ion/USMH4DWEYLUZ)
