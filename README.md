@@ -16,5 +16,4 @@ Certifications
 
 [SQL](https://coursera.org/verify/XVGGMXM2R7AM)
 
-[Python3 Programming Language](https://coursera.org/verify/specializat
-ion/USMH4DWEYLUZ)
+[Python3 Programming Language](https://coursera.org/verify/specialization/USMH4DWEYLUZ)
