@@ -6,7 +6,7 @@ Here are some of my accomplished projects and certifications:
 
 [Statistical Analysis](https://github.com/dataglyder/Basic_Statistics_For_Data_Analysis.io)
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/fatima.b.adebayo/viz/tablowbk1/Dashboard1?publish=yes)
+[Tableau Dashboard](https://public.tableau.com/app/profile/fatima.b.adebayo/viz/ProductsProfitandLossDashboard)
 
 Certifications
 
