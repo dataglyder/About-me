@@ -2,11 +2,15 @@ My name is Fatima Adebayo and I am passionate about uncovering  mysteries embede
 It will be a plesure and opportunity to work with you and discover how data could be used to power decision making.
 Here are some of my accomplished projects and certifications:
 
-[Python, Dashboard and Regression Analysis](https://github.com/dataglyder/Propane-Prices)
+[Propane Gas Prices](https://github.com/dataglyder/Propane-Gas-Prices)
 
 [Statistical Analysis](https://github.com/dataglyder/Basic_Statistics_For_Data_Analysis)
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/fatima.b.adebayo/viz/ProductsProfitandLossDashboard)
+[Products Profits and Loss Tableau Dashboard](https://public.tableau.com/app/profile/fatima.b.adebayo/viz/ProductsProfitandLossDashboard)
+
+[Commodity Prices and SQL](https://github.com/dataglyder/CommodityPrices-and-SQL)
+
+[Commodity Prices Tableau Viz](https://public.tableau.com/app/profile/fatima.b.adebayo/viz/ProductsProfitandLossDashboard/Dashboard1)
 
 Certifications
 
